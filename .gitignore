@@ -23,3 +23,8 @@
 hs_err_pid*
 .gradle/4.6/fileHashes/fileHashes.lock
 *.lock
+local.properties
+.idea/misc.xml
+.idea/gradle.xml
+.idea/codeStyles/Project.xml
+.gradle/4.6/fileHashes/fileHashes.bin
